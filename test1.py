@@ -1,3 +1,5 @@
 print("Hi Good morning all")
 print("Today is 22nd September 2024")
-print("We had class at 8AM")
+print("We had DevOps class at 8AM")
+print("We all came 10mins late to the class")
+print("Gagan did not attend online class")
